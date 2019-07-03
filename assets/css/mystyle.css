@@ -1,0 +1,28 @@
+body {
+	background: url('/assets/img/bglogin.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.body2 {
+	background: url('/assets/img/bglogin.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	min-height: 1000%;
+}
+
+.tombol-submit {
+    background: #0000FF;
+    color: #ffffff;
+    border: 1px solid #0000FF;
+    padding: 5px 10px;
+}
+.tombol-batal {
+    background: #ffffff;
+    color: #000000;
+    border: 1px solid #000000;
+    padding: 5px 10px;
+}
+.pull-right {
+    float: right;
+    margin-right: 100px;
+}
